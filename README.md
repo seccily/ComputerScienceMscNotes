@@ -1,1 +1,1 @@
-# cs512 Machine Learning Notes
+# Computer Science Msc Notes
